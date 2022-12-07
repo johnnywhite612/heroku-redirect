@@ -1,5 +1,7 @@
 {
   "name": "Heroku Redirect",
+  "stack": "heroku-22",
+
   "repository": "https://github.com/kenmickles/heroku-redirect",
   "env": {
     "NEW_BASE_URL": {
